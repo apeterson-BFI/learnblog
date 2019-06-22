@@ -16,7 +16,7 @@ Inspired by [Forge of Destiny] (https://www.royalroad.com/fiction/21188/forge-of
 4. Basic familiarity with scripting language (perl / python)
 5. Basic familiarity with awk & sed
 
-## Electric Tracks - Choose 1 - 2 of these
+## Elective Tracks - Choose 1 - 2 of these
 
 ### Steps of 0th -> 1st grade progression [Science / Data learning Track]
 
